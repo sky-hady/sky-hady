@@ -9,11 +9,19 @@
 
 </div>
 
+---
+
+<div align="center">
+
+## 💜 Developer Core
+
+</div>
+
 ```json
 {
-  "name": "Sky-Hady",
+  "identity": "Sky-Hady",
   "role": "Bot Developer",
-  "focus": [
+  "specialties": [
     "WhatsApp Bots",
     "APIs",
     "Automation"
@@ -23,7 +31,57 @@
     "JavaScript",
     "MongoDB"
   ],
-  "currently": "Building innovative projects",
+  "currently": "Building the next generation of projects",
   "status": "Online"
 }
 ```
+
+---
+
+<div align="center">
+
+## 📊 GitHub Analytics
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sky-hady&show_icons=true&theme=midnight-purple&hide_border=true&border_radius=15"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sky-hady&layout=compact&theme=midnight-purple&hide_border=true&border_radius=15"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🔥 Contribution Streak
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=sky-hady&theme=midnight-purple&hide_border=true&border_radius=15"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 📬 Connect With Me
+
+<a href="https://wa.me/+51910291997">
+  <img src="https://img.shields.io/badge/WhatsApp-Contact%20Me-9B59B6?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+<a href="https://github.com/sky-hady">
+  <img src="https://img.shields.io/badge/GitHub-Visit%20Profile-9B59B6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## 💜 Credits
+
+<a href="https://github.com/AxelDev09">
+  <img src="https://img.shields.io/badge/Credits-AxelDev09-9B59B6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
