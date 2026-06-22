@@ -8,3 +8,22 @@
 [![GitHub followers](https://img.shields.io/github/followers/sky-hady?color=9b59b6&style=flat-square&logo=github)](https://github.com/sky-hady)
 
 </div>
+
+```json
+{
+  "name": "Sky-Hady",
+  "role": "Bot Developer",
+  "focus": [
+    "WhatsApp Bots",
+    "APIs",
+    "Automation"
+  ],
+  "stack": [
+    "Node.js",
+    "JavaScript",
+    "MongoDB"
+  ],
+  "currently": "Building innovative projects",
+  "status": "Online"
+}
+```
